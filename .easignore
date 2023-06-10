@@ -1,0 +1,19 @@
+# Development-specific files
+.git
+.idea
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+node_modules/
+venv/
+
+# Unnecessary assets or media files
+videos/
+audio/
+unused-assets/
+
+# Configuration or environment-specific files
+.env
+config/*.json

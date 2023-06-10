@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native-app",
+    "slug": "react-native-app",
+    "extra": {
+      "eas": {
+        "projectId": "2dae9714-8807-40ad-be06-fc199c160302"
+      }
+    },
+    "android": {
+      "package": "com.adiakhileshsingh.reactnativeapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.adiakhileshsingh.reactnativeapp"
+    }
+  }
+}
